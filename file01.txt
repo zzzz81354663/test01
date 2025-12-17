@@ -1,5 +1,4 @@
-start count=3
-wq
+start count=5
 			
 
 
