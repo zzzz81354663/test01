@@ -1,4 +1,4 @@
-start count=1
+start count=2
 wq
 			
 
